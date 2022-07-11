@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mayalindae@gmail.com
+	name = Maya Eyal
